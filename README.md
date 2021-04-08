@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stoXmod
+- 👋 Hi, I’m stoXmod
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning some js techniques
 - 💞️ I’m looking to collaborate on talented js developers
