@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love to playing open world games
 
 ### Connect with me :
-<a href="https://www.facebook.com/nishara.senadeera" target="_blank"><img align="left" alt="stoXmod | Instagram" width="50px" src="https://img.icons8.com/color/48/000000/facebook-new.png" /></a>
 [<img align="left" alt="stoXmod | Instagram" width="50px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
 [<img align="left" alt="stoXmod | Twitter" width="50px" src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
 [<img align="left" alt="stoXmod | LinkedIn" width="50px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
