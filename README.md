@@ -20,6 +20,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Angualar" width="26px" src="https://img.icons8.com/color/48/000000/angularjs.png" />][webdevplaylist]
+[<img align="left" alt="Next.js" width="26px" src="https://img.icons8.com/color/48/000000/nextjs.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png" />][webdevplaylist]
