@@ -1,7 +1,7 @@
-- 👋 Hi, I’m stoXmod
+- 👋 Hi, I’m Nishara Senadheera AKA stoXmod
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning some js techniques
-- 💞️ I’m looking to collaborate on talented js developers
+- 🌱 I've always been passionate about building things and learning new things.
+- 💞️ I’m looking to collaborate with talented js developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me :
