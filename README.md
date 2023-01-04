@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning some js techniques
 - 💞️ I’m looking to collaborate on talented js developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to playing open world games
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me :
 [<img align="left" alt="stoXmod | Instagram" width="50px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][facebook]
