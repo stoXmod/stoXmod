@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stoxmod" alt="stoxmod" /></a> </p>
 
-- 👯 I’m looking to collaborate on **talented js developers**
-
 - 👨‍💻 All of my projects are available at [https://nishara.me](https://nishara.me)
 
 - 💬 Ask me about **React , Next and Node**
 
 - 📫 How to reach me **x@nishara.me**
-
-- 📄 Know about my experiences [https://nishara.me/Nishara_Senadheera_Resume.pdf](https://nishara.me/Nishara_Senadheera_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
