@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishara Senadheera AKA stoXmod</h1>
-<h3 align="center">A passionate MERN/Node Developer Based on Sri Lanka</h3>
+<h3 align="center">A passionate MERN/Node Developer Based in Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoxmod&label=Profile%20views&color=0e75b6&style=flat" alt="stoxmod" /> </p>
 
