@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishara Senadheera AKA stoXmod</h1>
+<h1 align="center">Hi 👋, I'm Nishara AKA stoXmod</h1>
 <h3 align="center">A passionate Full Stack Developer Based in Sri Lanka</h3>
 
 
