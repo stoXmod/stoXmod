@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoxmod&label=Profile%20views&color=0e75b6&style=flat" alt="stoxmod" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nishara.me](https://nishara.me)
+- 👨‍💻 Currently learning: Ethereum and Supabase
 
-- 💬 Ask me about **React , Next and Node**
+- 💬 All of my projects are available at [https://nishara.me](https://nishara.me)**
 
 - 📫 You can reach me at **x@nishara.me**
