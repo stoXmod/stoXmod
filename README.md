@@ -4,6 +4,6 @@
 
 - 👨‍💻 Currently learning: Ethereum and Supabase
 
-- 💬 All of my projects are available at [https://nishara.me](https://nishara.me)
+- 💬 Some of my projects are available at [https://nishara.me](https://nishara.me)
 
 - 📫 You can reach me at **x@nishara.me**
