@@ -1,4 +1,4 @@
-<h3 align="left">A passionate Full Stack Developer Based in Sri Lanka</h3>
+<h3 align="left">Building the future, one line of code at a time. Full stack developer at Metarune Labs, merging blockchain with innovation through Bitcoin and Ethereum projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoxmod&label=Profile%20views&color=0e75b6&style=flat" alt="stoxmod" /> </p>
 
