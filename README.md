@@ -2,6 +2,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stoxmod&label=Profile%20views&color=0e75b6&style=flat" alt="stoxmod" /> </p>
 
-- 👨‍💻 Currently learning: Ethereum and Bitcoin Based Development.
-
 - 📫 You can reach me at **x@nishara.me**
